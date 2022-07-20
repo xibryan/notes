@@ -57,3 +57,7 @@
 ### 3. ZGC
 
 ![zgc-memory](D:\02.src\notes\java\img\zgc-memory.png)
+
+  
+# 参考文章
+  - [Java中9种常见的CMS GC问题分析与解决](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651754955&idx=1&sn=8411133d2e5f22b9e2c5a34cdc67985d&scene=21#wechat_redirect)
